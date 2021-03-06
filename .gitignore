@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### FILE ###
+/src/main/java/ipi/phamquangtinh/tinhproject/repository/ProductRepository.java
